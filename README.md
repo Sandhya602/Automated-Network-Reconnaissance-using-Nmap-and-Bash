@@ -21,3 +21,4 @@ cd nmap-bash-scanner
 chmod +x scan.sh
 ./scan.sh
 # Automated-Network-Reconnaissance-using-Nmap-and-Bash
+![image](https://github.com/user-attachments/assets/6319f644-7035-4f60-a1f5-e20a02ffbfe0)
